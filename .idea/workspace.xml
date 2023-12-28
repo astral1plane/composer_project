@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1ab3eaf5-e51a-4412-b8e2-6428ee683c0f" name="Changes" comment="213">
+      <change afterPath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/bug_report.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/feature_request.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeception.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/composer_project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/phpspec.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/phpunit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/mariadb103/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/mariadb104/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/mariadb105/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/mariadb106/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/mysql57/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/mysql8/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/php54/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/php56/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/php71/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/php72/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/php73/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/php74/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/php8/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/php81/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev_build_container.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/www/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/www/vendor/composer" />
+      <path value="$PROJECT_DIR$/www/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/www/vendor/miladrahimi/phprouter" />
+      <path value="$PROJECT_DIR$/www/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/www/vendor/miladrahimi/phpcontainer" />
+      <path value="$PROJECT_DIR$/www/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/www/vendor/laminas/laminas-diactoros" />
+      <path value="$PROJECT_DIR$/www/vendor/j4mie/idiorm" />
+    </include_path>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2VNU8XH41489e62gSRDbBZX3Hxp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/KHPK.RU/student/Рабочий стол/composer_project",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ab3eaf5-e51a-4412-b8e2-6428ee683c0f" name="Changes" comment="" />
+      <created>1694675872442</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694675872442</updated>
+      <workItem from="1694675873434" duration="3166000" />
+      <workItem from="1695103636199" duration="1996000" />
+      <workItem from="1695265122657" duration="16051000" />
+      <workItem from="1695869539154" duration="100000" />
+      <workItem from="1703740950634" duration="38000" />
+      <workItem from="1703741619690" duration="13284000" />
+      <workItem from="1703757006634" duration="9000" />
+      <workItem from="1703757152764" duration="189000" />
+      <workItem from="1703758303636" duration="36000" />
+      <workItem from="1703758407019" duration="14000" />
+      <workItem from="1703758450381" duration="10000" />
+      <workItem from="1703764684669" duration="776000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="213" />
+    <option name="LAST_COMMIT_MESSAGE" value="213" />
+  </component>
+</project>
