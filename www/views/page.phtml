@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <div class="post">
+        <h1><?=$post->name?></h1>
+        <p>Описание:<?=$post->description?></p><br>
+    </div>
+    <div class="comments">
+        <?php foreach ($comments as $comment):?>
+        <div>
+            <h5>Имя:<?= $comment->login?></h5>
+            <p>Комментарий:<?= $comment->text?></p><br>
+        </div>
+        <?php endforeach;?>
+    </div>
+    <form action="/post/<?= $post->id?>" method="post">
+        <textarea name="text">
+
+        </textarea>
+        <input type="submit">
+    </form>
+
+</body>
+</html>
